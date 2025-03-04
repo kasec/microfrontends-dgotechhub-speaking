@@ -1,0 +1,1 @@
+# A microfrontends and monorepo talk for Dgo Tech hub community
