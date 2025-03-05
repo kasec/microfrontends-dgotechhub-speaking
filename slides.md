@@ -249,7 +249,7 @@ class: text-center
 
 # Thank you!
 
-[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/slidevjs/slidev) · [Tribu.dev](https://www.tribu.dev)
+[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/microfrontends-dgotechhub-speaking) · [Tribu.dev](https://www.tribu.dev)
 
 Azael Fernandez @ 2025
 
@@ -260,7 +260,7 @@ class: text-center
 
 # Questions
 
-[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/slidevjs/slidev) · [Tribu.dev](https://www.tribu.dev)
+[Linkedin Profile](www.linkedin.com/in/azael-fernandez) · [Presentation GitHub](https://github.com/kasec/microfrontends-dgotechhub-speaking) · [Tribu.dev](https://www.tribu.dev)
 
 Azael Fernandez @ 2025
 
