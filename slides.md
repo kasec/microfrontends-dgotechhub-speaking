@@ -42,11 +42,31 @@ Contenido
 
 ---
 transition: slide-up
+layout: center
+layoutClass: text-center
+---
+
+# Misconceptions
+
+<div v-click>
+```
+Monorepo !== Monolitico
+```
+</div>
+
+<div v-click>
+```
+Complejidad !== Dificultad
+```
+</div>
+
+---
+transition: slide-up
 layout: two-cols
 layoutClass: gap-16
 ---
 
-# Concept
+# Concepto de microfrontend
 
 <br/>
 <br/>
@@ -62,11 +82,11 @@ Involucrados:
 <br/>
 <div v-click>
 Herramientas:
-  <ul>
-    <li>Zoid</li>
-    <li>Module federation</li>
-  </ul>
 </div>
+<ul>
+    <li v-click v-mark.red>Zoid</li>
+    <li v-click v-mark.red>Module federation</li>
+</ul>
 
 ::right::
 <br/>
@@ -96,7 +116,7 @@ image: https://cover.sli.dev
 <br/>
 <br/>
  <div v-click>
-  <li>La compania tiene distintos departamentos y negocio no lo permite (Business burocracy)</li>
+  <li>La compania tiene distintos departamentos y negocio no lo permite</li>
  </div>
  <br/>
  <div v-click>
